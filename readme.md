@@ -2,7 +2,7 @@
 
 # In Pordhi the given question is : Create a multi-container host network using VXLAN overlay network.
 <p align=center>
-    <img src="assets/WhatsApp Image 2023-07-11 at 11.55.52 PM.jpeg" width="65%" height="65%">
+    <img src="assets/exam. -3.jpg" width="65%" height="65%">
 </p>
 
 
